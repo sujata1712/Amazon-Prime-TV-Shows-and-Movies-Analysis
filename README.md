@@ -79,4 +79,3 @@ Key analyses performed:
 
 ---
 
-## Project Structure
